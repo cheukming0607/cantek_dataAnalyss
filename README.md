@@ -55,6 +55,7 @@ This query retrieved which film's replacement cost was larger than $20 with the 
     WHERE active in (true)
 
 This query retrieved which staff is currently working in the DVD store with the staff ID, staff's first name, last name, and their active status. In this query, the logical operator "IN" is used to check whether the staff's active status is true or not.
+
 **Query_03: Wildcard**
 
     SELECT city_id, city
